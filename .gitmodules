@@ -22,3 +22,6 @@
 [submodule "OldJavaStuffFromSchool/MyPaint"]
 	path = OldJavaStuffFromSchool/MyPaint
 	url = https://github.com/TillWege/MyPaint.git
+[submodule "rust-of-life"]
+	path = rust-of-life
+	url = https://github.com/TillWege/rust-of-life.git

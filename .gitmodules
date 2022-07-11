@@ -67,3 +67,6 @@
 [submodule "University/Fortgeschrittene-Programmierung"]
 	path = University/Fortgeschrittene-Programmierung
 	url = https://github.com/TillWege/Fortgeschrittene-Programmierung.git
+[submodule "Games/Medieninformatik_Spiel"]
+	path = Games/Medieninformatik_Spiel
+	url = https://github.com/TillWege/Medieninformatik_Spiel.git

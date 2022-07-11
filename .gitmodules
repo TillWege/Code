@@ -4,3 +4,21 @@
 [submodule "University/HaseUndWolf"]
 	path = University/HaseUndWolf
 	url = https://github.com/TillWege/HaseUndWolf.git
+[submodule "OldJavaStuffFromSchool/LDS"]
+	path = OldJavaStuffFromSchool/LDS
+	url = https://github.com/TillWege/LDS.git
+[submodule "OldJavaStuffFromSchool/JSwing-Paint"]
+	path = OldJavaStuffFromSchool/JSwing-Paint
+	url = https://github.com/TillWege/JSwing-Paint.git
+[submodule "OldJavaStuffFromSchool/Infpaint2"]
+	path = OldJavaStuffFromSchool/Infpaint2
+	url = https://github.com/TillWege/Infpaint2.git
+[submodule "OldJavaStuffFromSchool/eph-.4"]
+	path = OldJavaStuffFromSchool/eph-.4
+	url = https://github.com/TillWege/eph-.4.git
+[submodule "OldJavaStuffFromSchool/infpaint"]
+	path = OldJavaStuffFromSchool/infpaint
+	url = https://github.com/TillWege/infpaint.git
+[submodule "OldJavaStuffFromSchool/MyPaint"]
+	path = OldJavaStuffFromSchool/MyPaint
+	url = https://github.com/TillWege/MyPaint.git

@@ -31,3 +31,6 @@
 [submodule "University/Medieninformatik"]
 	path = University/Medieninformatik
 	url = https://github.com/TillWege/Medieninformatik.git
+[submodule "Stuff/TanKI"]
+	path = Stuff/TanKI
+	url = https://github.com/TillWege/TanKI.git

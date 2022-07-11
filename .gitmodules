@@ -58,3 +58,6 @@
 [submodule "Games/Universe-2D"]
 	path = Games/Universe-2D
 	url = https://github.com/TillWege/Universe-2D.git
+[submodule "casher"]
+	path = casher
+	url = https://github.com/dennis-adamczyk/casher.git

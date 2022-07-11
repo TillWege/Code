@@ -49,3 +49,6 @@
 [submodule "Stuff/BfBot"]
 	path = Stuff/BfBot
 	url = https://github.com/TillWege/BfBot.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/TillWege/dotfiles.git

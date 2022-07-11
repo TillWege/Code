@@ -61,3 +61,9 @@
 [submodule "casher"]
 	path = casher
 	url = https://github.com/dennis-adamczyk/casher.git
+[submodule "Athena"]
+	path = Athena
+	url = https://github.com/TillWege/Athena.git
+[submodule "University/Fortgeschrittene-Programmierung"]
+	path = University/Fortgeschrittene-Programmierung
+	url = https://github.com/TillWege/Fortgeschrittene-Programmierung.git

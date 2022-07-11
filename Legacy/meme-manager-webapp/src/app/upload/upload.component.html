@@ -1,0 +1,22 @@
+<form>
+    <h1>Uploading a Meme</h1>
+    <div class="form-group">
+        <label for="title">Meme Title</label>
+        <input type="text" [(ngModel)]="Title" class="form-control" id="title" name="title" aria-describedby="titlehelp" placeholder="Name">
+        <small id="titlehelp" class="form-text text-muted">Give it a good name!</small>
+    </div>
+    <div class="form-group">
+        <label for="tags">Tags</label>
+        <input type="text" [(ngModel)]="Tags" class="form-control" id="tags" name="tags" aria-describedby="titlehelp" placeholder="funny, good, ...">
+        <small id="tagshelp" class="form-text text-muted">Seperate with a comma</small>
+    </div>
+    <div class="form-group">
+        <label for="fileupload" class="form-text text-muted">Image</label>
+        <input class="form-control" (change)="onFileChange($event)" id="fileupload" type="file">
+    </div>
+    <div class="form-group form-check">
+        <input type="checkbox" [(ngModel)]="hidden" name="hidden" class="form-check-input" id="privatecb">
+        <label class="form-check-label" for="privatecb">Make meme Private</label>
+    </div>
+    <button type="submit" (click)="buttonClick()" class="btn btn-primary">Submit</button>
+</form>

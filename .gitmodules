@@ -28,3 +28,6 @@
 [submodule "University/Search-Engine"]
 	path = University/Search-Engine
 	url = https://github.com/TillWege/Search-Engine
+[submodule "University/Medieninformatik"]
+	path = University/Medieninformatik
+	url = https://github.com/TillWege/Medieninformatik.git

@@ -34,3 +34,12 @@
 [submodule "Stuff/TanKI"]
 	path = Stuff/TanKI
 	url = https://github.com/TillWege/TanKI.git
+[submodule "OldJavaStuffFromSchool/gnomesort"]
+	path = OldJavaStuffFromSchool/gnomesort
+	url = https://github.com/TillWege/gnomesort.git
+[submodule "OldJavaStuffFromSchool/Q2IF"]
+	path = OldJavaStuffFromSchool/Q2IF
+	url = https://github.com/TillWege/Q2IF.git
+[submodule "OldJavaStuffFromSchool/JavaDatabaseViewer"]
+	path = OldJavaStuffFromSchool/JavaDatabaseViewer
+	url = https://github.com/TillWege/JavaDatabaseViewer.git

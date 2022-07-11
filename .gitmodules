@@ -43,3 +43,9 @@
 [submodule "OldJavaStuffFromSchool/JavaDatabaseViewer"]
 	path = OldJavaStuffFromSchool/JavaDatabaseViewer
 	url = https://github.com/TillWege/JavaDatabaseViewer.git
+[submodule "Stuff/6502-Emulator"]
+	path = Stuff/6502-Emulator
+	url = https://github.com/TillWege/6502-Emulator.git
+[submodule "Stuff/BfBot"]
+	path = Stuff/BfBot
+	url = https://github.com/TillWege/BfBot.git

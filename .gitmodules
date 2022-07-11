@@ -1,0 +1,3 @@
+[submodule "University/Pong"]
+	path = University/Pong
+	url = https://github.com/TillWege/Pong.git

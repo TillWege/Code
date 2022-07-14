@@ -73,3 +73,6 @@
 [submodule "TillWege"]
 	path = TillWege
 	url = https://github.com/TillWege/TillWege.git
+[submodule "Docker"]
+	path = Docker
+	url = https://github.com/TillWege/Docker.git

@@ -1,0 +1,3 @@
+dir=$(pwd)
+
+echo $dir

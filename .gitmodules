@@ -76,3 +76,6 @@
 [submodule "Docker"]
 	path = Docker
 	url = https://github.com/TillWege/Docker.git
+[submodule "Bingo"]
+	path = Bingo
+	url = https://github.com/TillWege/Bingo.git

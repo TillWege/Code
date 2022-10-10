@@ -62,7 +62,7 @@
 	path = Web/casher
 	url = https://github.com/dennis-adamczyk/casher.git
 [submodule "Athena"]
-	path = Athena
+	path = Stuff/Athena
 	url = https://github.com/TillWege/Athena.git
 [submodule "University/Fortgeschrittene-Programmierung"]
 	path = University/Fortgeschrittene-Programmierung
@@ -77,7 +77,7 @@
 	path = Docker
 	url = https://github.com/TillWege/Docker.git
 [submodule "Bingo"]
-	path = Bingo
+	path = Web/Bingo
 	url = https://github.com/TillWege/Bingo.git
 [submodule "rust-paint"]
 	path = Rust/rust-paint

@@ -23,7 +23,7 @@
 	path = OldJavaStuffFromSchool/MyPaint
 	url = https://github.com/TillWege/MyPaint.git
 [submodule "rust-of-life"]
-	path = rust-of-life
+	path = Rust/rust-of-life
 	url = https://github.com/TillWege/rust-of-life.git
 [submodule "University/Search-Engine"]
 	path = University/Search-Engine
@@ -59,7 +59,7 @@
 	path = Games/Universe-2D
 	url = https://github.com/TillWege/Universe-2D.git
 [submodule "casher"]
-	path = casher
+	path = Web/casher
 	url = https://github.com/dennis-adamczyk/casher.git
 [submodule "Athena"]
 	path = Athena
@@ -80,11 +80,11 @@
 	path = Bingo
 	url = https://github.com/TillWege/Bingo.git
 [submodule "rust-paint"]
-	path = rust-paint
+	path = Rust/rust-paint
 	url = https://github.com/TillWege/rust-paint.git
 [submodule "Meme-Manager"]
-	path = Meme-Manager
+	path = Web/Meme-Manager
 	url = https://github.com/TillWege/Meme-Manager.git
 [submodule "rasa"]
-	path = rasa
+	path = University/rasa
 	url = https://github.com/TillWege/rasa.git

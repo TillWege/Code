@@ -1,0 +1,7 @@
+# https://forum.rasa.com/t/an-unofficial-guide-to-installing-rasa-on-an-m1-macbook/51342
+channels:
+  - apple
+  - conda-forge
+
+dependencies:
+  - python==3.8.12

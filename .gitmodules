@@ -85,3 +85,6 @@
 [submodule "Meme-Manager"]
 	path = Meme-Manager
 	url = https://github.com/TillWege/Meme-Manager.git
+[submodule "rasa"]
+	path = rasa
+	url = https://github.com/TillWege/rasa.git

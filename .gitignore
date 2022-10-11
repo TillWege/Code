@@ -6,3 +6,5 @@
 /target
 .DS_Store
 Thumbs.db
+stuff/waifu_ai/*.png
+stuff/waifu_ai/*/*.png

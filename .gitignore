@@ -1,9 +1,9 @@
 .class
 .o
 .pyc
-/node_modules
-/packages
-/target
+node_modules/
+packages/
+target/
 .DS_Store
 Thumbs.db
 stuff/waifu_ai/*.png

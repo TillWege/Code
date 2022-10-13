@@ -43,21 +43,12 @@
 [submodule "OldJavaStuffFromSchool/JavaDatabaseViewer"]
 	path = Legacy/JavaDatabaseViewer
 	url = https://github.com/TillWege/JavaDatabaseViewer.git
-[submodule "Stuff/6502-Emulator"]
-	path = Stuff/6502-Emulator
-	url = https://github.com/TillWege/6502-Emulator.git
 [submodule "Stuff/BfBot"]
 	path = Stuff/BfBot
 	url = https://github.com/TillWege/BfBot.git
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/TillWege/dotfiles.git
-[submodule "Games/RayChess"]
-	path = Games/RayChess
-	url = https://github.com/TillWege/RayChess.git
-[submodule "Games/Universe-2D"]
-	path = Games/Universe-2D
-	url = https://github.com/TillWege/Universe-2D.git
 [submodule "casher"]
 	path = Web/casher
 	url = https://github.com/dennis-adamczyk/casher.git

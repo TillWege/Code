@@ -1,11 +1,11 @@
 #!/bin/bash
 
-read -p "Enter ssh target hostname/ip [192.168.64.4]: " target_host
-target_host=${target_host:-192.168.64.4}
-read -p "Enter username [tillwege]: " username
-username=${username:-tillwege}
-read -s -p "Enter password [testpassword]: " password
-password=${password:-testpassword}
+read -p "Enter ssh target hostname/ip [10.10.10.52]: " target_host
+target_host=${target_host:-10.10.10.23}
+read -p "Enter username [student]: " username
+username=${username:-student}
+read -s -p "Enter password [12345]: " password
+password=${password:-12345}
 echo ""
 echo "Generating SSH keys..."
 ssh-keyscan -H $target_host >> ~/.ssh/known_hosts
@@ -51,20 +51,20 @@ then
                                                                     <title>Webtop</title>
                                                                 </head>
                                                                 <body>
-                                                                    <p>Hostname: ${hostname}</p>
-                                                                    <p>IP-Adresse: ${ip}</p>
-                                                                    <p>User: ${user}</p>
-                                                                    <p>Ubuntu Version: ${ubuntu_version}</p>
-                                                                    <p>Uptime: ${uptime}</p>
-                                                                    <p>Speicherplatz: ${space}</p>
-                                                                    <p>freier Speicherplatz: ${free}</p>
+                                                                    <p style="font-size: 1.9vw;">Hostname: ${hostname}</p>
+                                                                    <p style="font-size: 1.9vw;">IP-Adresse: ${ip}</p>
+                                                                    <p style="font-size: 1.9vw;">User: ${user}</p>
+                                                                    <p style="font-size: 1.9vw;">Ubuntu Version: ${ubuntu_version}</p>
+                                                                    <p style="font-size: 1.9vw;">Uptime: ${uptime}</p>
+                                                                    <p style="font-size: 1.9vw;">Speicherplatz: ${space}</p>
+                                                                    <p style="font-size: 1.9vw;">freier Speicherplatz: ${free}</p>
                                                                     <hr>
-                                                                    <h1>Top 5 Prozesse (cpu)</h1>
-                                                                    <p>Prozess NR.1 ${p1_name}: ${p1_cpu}% CPU</p>
-                                                                    <p>Prozess NR.2 ${p2_name}: ${p2_cpu}% CPU</p>
-                                                                    <p>Prozess NR.3 ${p3_name}: ${p3_cpu}% CPU</p>
-                                                                    <p>Prozess NR.4 ${p4_name}: ${p4_cpu}% CPU</p>
-                                                                    <p>Prozess NR.5 ${p5_name}: ${p5_cpu}% CPU</p>
+                                                                    <h1 style="font-size: 1.9vw;">Top 5 Prozesse (cpu)</h1>
+                                                                    <p style="font-size: 1.9vw;">Prozess NR.1 ${p1_name}: ${p1_cpu}% CPU</p>
+                                                                    <p style="font-size: 1.9vw;">Prozess NR.2 ${p2_name}: ${p2_cpu}% CPU</p>
+                                                                    <p style="font-size: 1.9vw;">Prozess NR.3 ${p3_name}: ${p3_cpu}% CPU</p>
+                                                                    <p style="font-size: 1.9vw;">Prozess NR.4 ${p4_name}: ${p4_cpu}% CPU</p>
+                                                                    <p style="font-size: 1.9vw;">Prozess NR.5 ${p5_name}: ${p5_cpu}% CPU</p>
                                                                 </body>
                                                                 </html>
 EOF
@@ -102,21 +102,20 @@ EOF
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>Webtop</title>
             </head>
-            <body>
-                <p>Hostname: ${hostname}</p>
-                <p>IP-Adresse: ${ip}</p>
-                <p>User: ${user}</p>
-                <p>Ubuntu Version: ${ubuntu_version}</p>
-                <p>Uptime: ${uptime}</p>
-                <p>Speicherplatz: ${space}</p>
-                <p>freier Speicherplatz: ${free}</p>
-                <hr>
-                <h1>Top 5 Prozesse (cpu)</h1>
-                <p>Prozess NR.1 ${p1_name}: ${p1_cpu}% CPU</p>
-                <p>Prozess NR.2 ${p2_name}: ${p2_cpu}% CPU</p>
-                <p>Prozess NR.3 ${p3_name}: ${p3_cpu}% CPU</p>
-                <p>Prozess NR.4 ${p4_name}: ${p4_cpu}% CPU</p>
-                <p>Prozess NR.5 ${p5_name}: ${p5_cpu}% CPU</p>
+            <body style="height: 100%">
+                <p style="font-size: 1.9vw;">Hostname: ${hostname}</p>
+                <p style="font-size: 1.9vw;">IP-Adresse: ${ip}</p>
+                <p style="font-size: 1.9vw;">User: ${user}</p>
+                <p style="font-size: 1.9vw;">Ubuntu Version: ${ubuntu_version}</p>
+                <p style="font-size: 1.9vw;">Uptime: ${uptime}</p>
+                <p style="font-size: 1.9vw;">Speicherplatz: ${space}</p>
+                <p style="font-size: 1.9vw;">freier Speicherplatz: ${free}</p>
+                <h1 style="font-size: 1.9vw;">Top 5 Prozesse (cpu)</h1>
+                <p style="font-size: 1.9vw;">Prozess NR.1 ${p1_name}: ${p1_cpu}% CPU</p>
+                <p style="font-size: 1.9vw;">Prozess NR.2 ${p2_name}: ${p2_cpu}% CPU</p>
+                <p style="font-size: 1.9vw;">Prozess NR.3 ${p3_name}: ${p3_cpu}% CPU</p>
+                <p style="font-size: 1.9vw;">Prozess NR.4 ${p4_name}: ${p4_cpu}% CPU</p>
+                <p style="font-size: 1.9vw;">Prozess NR.5 ${p5_name}: ${p5_cpu}% CPU</p>
             </body>
             </html>
 EOF

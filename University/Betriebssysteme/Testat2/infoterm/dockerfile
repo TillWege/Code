@@ -1,0 +1,8 @@
+FROM httpd:2.4
+
+WORKDIR /app
+COPY infoterm.sh infoterm.sh
+
+RUN chmod +x infoterm.sh
+
+ENTRYPOINT ["bash", "infoterm.sh"]

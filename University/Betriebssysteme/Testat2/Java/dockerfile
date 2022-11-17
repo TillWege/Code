@@ -1,0 +1,15 @@
+FROM openjdk:8
+
+WORKDIR /app
+
+RUN echo "\
+public class Main {\
+public static void main(String[] args) {\
+    System.out.println(\"Hallo Welt!\");\
+    }\
+}\
+" > Main.java
+
+RUN javac Main.java
+
+ENTRYPOINT [ "java", "Main" ]

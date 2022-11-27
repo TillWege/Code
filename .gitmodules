@@ -79,3 +79,6 @@
 [submodule "rasa"]
 	path = University/rasa
 	url = https://github.com/TillWege/rasa.git
+[submodule "University/FiT"]
+	path = University/FiT
+	url = https://github.com/TillWege/FiT.git

@@ -76,3 +76,18 @@
 [submodule "University/FiT"]
 	path = University/FiT
 	url = https://github.com/TillWege/FiT.git
+[submodule "Tools/--force"]
+	path = Tools/--force
+	url = https://github.com/TillWege/paint-rs.git
+[submodule "Tools/paint-rs"]
+	path = Tools/paint-rs
+	url = https://github.com/TillWege/paint-rs.git
+[submodule "Tools/raytracer-rs"]
+	path = Tools/raytracer-rs
+	url = https://github.com/TillWege/raytracer-rs.git
+[submodule "Games/gol-rs"]
+	path = Games/gol-rs
+	url = https://github.com/TillWege/gol-rs.git
+[submodule "Games/retro-rs"]
+	path = Games/retro-rs
+	url = https://github.com/TillWege/retro-rs.git

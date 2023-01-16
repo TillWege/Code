@@ -22,9 +22,6 @@
 [submodule "OldJavaStuffFromSchool/MyPaint"]
 	path = Legacy/MyPaint
 	url = https://github.com/TillWege/MyPaint.git
-[submodule "rust-of-life"]
-	path = Rust/rust-of-life
-	url = https://github.com/TillWege/rust-of-life.git
 [submodule "University/Search-Engine"]
 	path = University/Search-Engine
 	url = https://github.com/TillWege/Search-Engine
@@ -70,9 +67,6 @@
 [submodule "Bingo"]
 	path = Web/Bingo
 	url = https://github.com/TillWege/Bingo.git
-[submodule "rust-paint"]
-	path = Rust/rust-paint
-	url = https://github.com/TillWege/rust-paint.git
 [submodule "Meme-Manager"]
 	path = Web/Meme-Manager
 	url = https://github.com/TillWege/Meme-Manager.git

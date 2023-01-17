@@ -91,3 +91,9 @@
 [submodule "Games/retro-rs"]
 	path = Games/retro-rs
 	url = https://github.com/TillWege/retro-rs.git
+[submodule "Competitions/Advent-of-Coding-2022"]
+	path = Competitions/Advent-of-Coding-2022
+	url = https://github.com/TillWege/Advent-of-Coding-2022.git
+[submodule "Games/DriverVR"]
+	path = Games/DriverVR
+	url = https://github.com/TillWege/DriverVR.git

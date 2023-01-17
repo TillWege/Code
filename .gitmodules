@@ -4,22 +4,22 @@
 [submodule "University/HaseUndWolf"]
 	path = University/HaseUndWolf
 	url = https://github.com/TillWege/HaseUndWolf.git
-[submodule "OldJavaStuffFromSchool/LDS"]
+[submodule "Legacy/LDS"]
 	path = Legacy/LDS
 	url = https://github.com/TillWege/LDS.git
-[submodule "OldJavaStuffFromSchool/JSwing-Paint"]
+[submodule "Legacy/JSwing-Paint"]
 	path = Legacy/JSwing-Paint
 	url = https://github.com/TillWege/JSwing-Paint.git
-[submodule "OldJavaStuffFromSchool/Infpaint2"]
+[submodule "Legacy/Infpaint2"]
 	path = Legacy/Infpaint2
 	url = https://github.com/TillWege/Infpaint2.git
-[submodule "OldJavaStuffFromSchool/eph-.4"]
+[submodule "Legacy/eph-.4"]
 	path = Legacy/eph-.4
 	url = https://github.com/TillWege/eph-.4.git
-[submodule "OldJavaStuffFromSchool/infpaint"]
+[submodule "Legacy/infpaint"]
 	path = Legacy/infpaint
 	url = https://github.com/TillWege/infpaint.git
-[submodule "OldJavaStuffFromSchool/MyPaint"]
+[submodule "Legacy/MyPaint"]
 	path = Legacy/MyPaint
 	url = https://github.com/TillWege/MyPaint.git
 [submodule "University/Search-Engine"]
@@ -28,16 +28,13 @@
 [submodule "University/Medieninformatik"]
 	path = University/Medieninformatik
 	url = https://github.com/TillWege/Medieninformatik.git
-[submodule "Stuff/TanKI"]
-	path = Stuff/TanKI
-	url = https://github.com/TillWege/TanKI.git
-[submodule "OldJavaStuffFromSchool/gnomesort"]
+[submodule "Legacy/gnomesort"]
 	path = Legacy/gnomesort
 	url = https://github.com/TillWege/gnomesort.git
-[submodule "OldJavaStuffFromSchool/Q2IF"]
+[submodule "Legacy/Q2IF"]
 	path = Legacy/Q2IF
 	url = https://github.com/TillWege/Q2IF.git
-[submodule "OldJavaStuffFromSchool/JavaDatabaseViewer"]
+[submodule "Legacy/JavaDatabaseViewer"]
 	path = Legacy/JavaDatabaseViewer
 	url = https://github.com/TillWege/JavaDatabaseViewer.git
 [submodule "Stuff/BfBot"]
@@ -49,9 +46,6 @@
 [submodule "casher"]
 	path = Web/casher
 	url = https://github.com/dennis-adamczyk/casher.git
-[submodule "Athena"]
-	path = Stuff/Athena
-	url = https://github.com/TillWege/Athena.git
 [submodule "University/Fortgeschrittene-Programmierung"]
 	path = University/Fortgeschrittene-Programmierung
 	url = https://github.com/TillWege/Fortgeschrittene-Programmierung.git
@@ -70,15 +64,9 @@
 [submodule "Meme-Manager"]
 	path = Web/Meme-Manager
 	url = https://github.com/TillWege/Meme-Manager.git
-[submodule "rasa"]
-	path = University/rasa
-	url = https://github.com/TillWege/rasa.git
 [submodule "University/FiT"]
 	path = University/FiT
 	url = https://github.com/TillWege/FiT.git
-[submodule "Tools/--force"]
-	path = Tools/--force
-	url = https://github.com/TillWege/paint-rs.git
 [submodule "Tools/paint-rs"]
 	path = Tools/paint-rs
 	url = https://github.com/TillWege/paint-rs.git

@@ -85,9 +85,15 @@
 [submodule "Games/DriverVR"]
 	path = Games/DriverVR
 	url = https://github.com/TillWege/DriverVR.git
+[submodule "Games/Metropolis"]
+	path = Games/Metropolis
+	url = https://github.com/TillWege/Metropolis.git
 [submodule "Tools/Atlantinator"]
 	path = Tools/Atlantinator
 	url = https://github.com/TillWege/Atlantinator.git
 [submodule "Games/Mirrorshot"]
 	path = Games/Mirrorshot
 	url = https://github.com/TillWege/Mirrorshot.git
+[submodule "Tools/Timerius"]
+	path = Tools/Timerius
+	url = https://github.com/TillWege/Timerius.git

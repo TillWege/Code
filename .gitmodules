@@ -91,3 +91,12 @@
 [submodule "Tools/Timerius"]
 	path = Tools/Timerius
 	url = https://github.com/TillWege/Timerius.git
+[submodule "University/Angewandte-Statistik"]
+	path = University/Angewandte-Statistik
+	url = https://github.com/TillWege/Angewandte-Statistik.git
+[submodule "University/IT-Sicherheit"]
+	path = University/IT-Sicherheit
+	url = https://github.com/TillWege/IT-Sicherheit.git
+[submodule "University/Software-Engineering"]
+	path = University/Software-Engineering
+	url = https://github.com/TillWege/Software-Engineering.git

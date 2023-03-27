@@ -100,3 +100,6 @@
 [submodule "University/Software-Engineering"]
 	path = University/Software-Engineering
 	url = https://github.com/TillWege/Software-Engineering.git
+[submodule "Games/Doomthon"]
+	path = Games/Doomthon
+	url = https://github.com/TillWege/Doomthon.git

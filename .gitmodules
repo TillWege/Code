@@ -103,3 +103,6 @@
 [submodule "Games/Doomthon"]
 	path = Games/Doomthon
 	url = https://github.com/TillWege/Doomthon.git
+[submodule "University/ZooApp"]
+	path = University/ZooApp
+	url = https://github.com/TillWege/ZooApp.git

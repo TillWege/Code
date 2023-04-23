@@ -1,108 +1,144 @@
 [submodule "University/Pong"]
 	path = University/Pong
 	url = https://github.com/TillWege/Pong.git
+	branch = main
 [submodule "University/HaseUndWolf"]
 	path = University/HaseUndWolf
 	url = https://github.com/TillWege/HaseUndWolf.git
+	branch = main
 [submodule "Legacy/LDS"]
 	path = Legacy/LDS
 	url = https://github.com/TillWege/LDS.git
+	branch = main
 [submodule "Legacy/JSwing-Paint"]
 	path = Legacy/JSwing-Paint
 	url = https://github.com/TillWege/JSwing-Paint.git
+	branch = main
 [submodule "Legacy/Infpaint2"]
 	path = Legacy/Infpaint2
 	url = https://github.com/TillWege/Infpaint2.git
+	branch = main
 [submodule "Legacy/eph-.4"]
 	path = Legacy/eph-.4
 	url = https://github.com/TillWege/eph-.4.git
+	branch = main
 [submodule "Legacy/infpaint"]
 	path = Legacy/infpaint
 	url = https://github.com/TillWege/infpaint.git
+	branch = main
 [submodule "Legacy/MyPaint"]
 	path = Legacy/MyPaint
 	url = https://github.com/TillWege/MyPaint.git
+	branch = main
 [submodule "University/Search-Engine"]
 	path = University/Search-Engine
 	url = https://github.com/TillWege/Search-Engine
+	branch = main
 [submodule "University/Medieninformatik"]
 	path = University/Medieninformatik
 	url = https://github.com/TillWege/Medieninformatik.git
+	branch = main
 [submodule "Legacy/gnomesort"]
 	path = Legacy/gnomesort
 	url = https://github.com/TillWege/gnomesort.git
+	branch = main
 [submodule "Legacy/Q2IF"]
 	path = Legacy/Q2IF
 	url = https://github.com/TillWege/Q2IF.git
+	branch = main
 [submodule "Legacy/JavaDatabaseViewer"]
 	path = Legacy/JavaDatabaseViewer
 	url = https://github.com/TillWege/JavaDatabaseViewer.git
+	branch = main
 [submodule "Stuff/BfBot"]
 	path = Stuff/BfBot
 	url = https://github.com/TillWege/BfBot.git
+	branch = main
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/TillWege/dotfiles.git
+	branch = main
 [submodule "casher"]
 	path = Web/casher
 	url = https://github.com/dennis-adamczyk/casher.git
+	branch = main
 [submodule "University/Fortgeschrittene-Programmierung"]
 	path = University/Fortgeschrittene-Programmierung
 	url = https://github.com/TillWege/Fortgeschrittene-Programmierung.git
+	branch = main
 [submodule "Games/Medieninformatik_Spiel"]
 	path = Games/Medieninformatik_Spiel
 	url = https://github.com/TillWege/Medieninformatik_Spiel.git
+	branch = main
 [submodule "TillWege"]
 	path = TillWege
 	url = https://github.com/TillWege/TillWege.git
+	branch = main
 [submodule "Docker"]
 	path = Docker
 	url = https://github.com/TillWege/Docker.git
+	branch = main
 [submodule "Bingo"]
 	path = Web/Bingo
 	url = https://github.com/TillWege/Bingo.git
+	branch = main
 [submodule "Meme-Manager"]
 	path = Web/Meme-Manager
 	url = https://github.com/TillWege/Meme-Manager.git
+	branch = main
 [submodule "University/FiT"]
 	path = University/FiT
 	url = https://github.com/TillWege/FiT.git
+	branch = main
 [submodule "Tools/paint-rs"]
 	path = Tools/paint-rs
 	url = https://github.com/TillWege/paint-rs.git
+	branch = main
 [submodule "Tools/raytracer-rs"]
 	path = Tools/raytracer-rs
 	url = https://github.com/TillWege/raytracer-rs.git
+	branch = main
 [submodule "Games/gol-rs"]
 	path = Games/gol-rs
 	url = https://github.com/TillWege/gol-rs.git
+	branch = main
 [submodule "Games/retro-rs"]
 	path = Games/retro-rs
 	url = https://github.com/TillWege/retro-rs.git
+	branch = main
 [submodule "Competitions/Advent-of-Coding-2022"]
 	path = Competitions/Advent-of-Coding-2022
 	url = https://github.com/TillWege/Advent-of-Coding-2022.git
+	branch = main
 [submodule "Games/DriverVR"]
 	path = Games/DriverVR
 	url = https://github.com/TillWege/DriverVR.git
+	branch = main
 [submodule "Tools/Atlantinator"]
 	path = Tools/Atlantinator
 	url = https://github.com/TillWege/Atlantinator.git
+	branch = main
 [submodule "Tools/Timerius"]
 	path = Tools/Timerius
 	url = https://github.com/TillWege/Timerius.git
-[submodule "University/Angewandte-Statistik"]
-	path = University/Angewandte-Statistik
-	url = https://github.com/TillWege/Angewandte-Statistik.git
+	branch = main
 [submodule "University/IT-Sicherheit"]
 	path = University/IT-Sicherheit
 	url = https://github.com/TillWege/IT-Sicherheit.git
+	branch = main
 [submodule "University/Software-Engineering"]
 	path = University/Software-Engineering
 	url = https://github.com/TillWege/Software-Engineering.git
+	branch = main
 [submodule "Games/Doomthon"]
 	path = Games/Doomthon
 	url = https://github.com/TillWege/Doomthon.git
+	branch = main
 [submodule "University/ZooApp"]
 	path = University/ZooApp
 	url = https://github.com/TillWege/ZooApp.git
+	branch = main
+[submodule "University/Angewandte-Statistik"]
+	path = University/Angewandte-Statistik
+	url = https://github.com/TillWege/Angewandte-Statistik.git
+	branch = main
